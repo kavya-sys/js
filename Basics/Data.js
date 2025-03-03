@@ -25,3 +25,20 @@
 // }
 // Type of objects, function and arrays are function .
 
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+/******************************************MEMORY *****************************************/
+// Stack(Primitive),Heap(Non-Primitive)
+// let real="IAMREAL"
+// let copy="IAMCOPY"
+// copy="CHANGING"
+// console.log(real);
+// console.log(copy);
+// let userOne ={
+//     email:"user@google.com",
+//     upi:"user@ybl"
+// }
+// let userTwo =userOne
+// userTwo.email = "hitesh@google.com"
+// console.log(userOne.email);
+// console.log(userTwo.email);
