@@ -19,7 +19,9 @@
 //     name:"vanshika",
 //     age:22,
 //     }
-// /******Function as VAriable*********/
+// /******Function as Variable*********/
 // const myFunction=function(){
 //     console.log("Hello world");
 // }
+// Type of objects, function and arrays are function .
+
